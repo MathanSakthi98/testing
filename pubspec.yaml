@@ -27,8 +27,8 @@ dependencies:
     git:
       url: https://buildautomation:Coolcomp299@gitlab.syncfusion.com/essential-studio/flutter-sliders
       path: flutter_sliders/syncfusion_flutter_sliders
-      branch: release/19.1.0.1
-      ref: release/19.1.0.1
+      branch: FLUT-3977-Added-comments-for-vertical-named-constructor
+      ref: FLUT-3977-Added-comments-for-vertical-named-constructor
 #  syncfusion_flutter_sliders:
 #    git:
 #      url: https://buildautomation:Coolcomp299@gitlab.syncfusion.com/essential-studio/flutter-sliders

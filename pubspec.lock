@@ -141,8 +141,8 @@ packages:
     dependency: "direct main"
     description:
       path: "flutter_sliders/syncfusion_flutter_sliders"
-      ref: "release/19.1.0.1"
-      resolved-ref: a303b2de832c4982d769a91d6bc97f7dbda68581
+      ref: FLUT-3977-Added-comments-for-vertical-named-constructor
+      resolved-ref: e763382cd42da4d3913dd9fed75f452aa2e27ec5
       url: "https://buildautomation:Coolcomp299@gitlab.syncfusion.com/essential-studio/flutter-sliders"
     source: git
     version: "18.3.35-beta"

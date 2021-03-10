@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
               values: _numValues,
               showLabels: true,
               showTicks: true,
-              interval: 10,
+              //interval: 10,
               enableTooltip: true,
               enableIntervalSelection: true,
               tooltipTextFormatterCallback:
